@@ -17,7 +17,7 @@ I usualluy treat languages and frameworks as tools. Give me a new one, allow me 
     </div>
     <br>
     <div style="display: inline_block">
-        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+<!--         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> -->
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     </div>
 </div>
