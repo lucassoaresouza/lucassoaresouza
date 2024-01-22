@@ -23,8 +23,8 @@ I usualluy treat languages and frameworks as tools. Give me a new one, allow me 
 </div>
 <br>
 
-## Others
+<!-- ## Others
 <br>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresouza&show_icons=true&theme=gruvbox"/>
-</div> 
+</div>  -->
