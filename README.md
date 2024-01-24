@@ -3,6 +3,7 @@
 - Brazilian :brazil: 
 - Graduated Software Engineer :computer:
 - Backend developer :back::gear:
+- Looking for my 2022 and 2023 contributions? Please, look at [this one](https://github.com/lucasssouza1) and ask me why. :sweat_smile:
 
 I usualluy treat languages and frameworks as tools. Give me a new one, allow me to learn and soon you will have a product.
 
